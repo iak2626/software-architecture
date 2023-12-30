@@ -1,0 +1,26 @@
+Player id,player name, age,gender,team country,match score day 1,match score day 2,match score day 3,match score day 4
+AS01,Harry Souttar,23,Male,australia,5,2,1,9
+AS02,Kye Rowles,25,Male,australia,2,6,5,5
+AS03,Mathew Ryan,29,Male,australia,4,7,2,2
+AS04,Riley McGree,25,Male,australia,1,1,5,7
+AS05,Mark Do Leno,22,Male,australia,5,7,4,2
+AS06,Jordan Bos,26,Male,australia,2,6,5,8
+AS07,Ajdin Hrustic,33,Male,australia,6,2,9,5
+AS08,Mathew Leckie,29,Male,australia,4,4,8,2
+AS09,Miloš Degenek,28,Male,australia,5,6,5,3
+AS10,Andrew Redmayne,22,Male,australia,6,2,9,6
+AS11,Aziz Behich,27,Male,australia,7,9,6,6
+PO01,Cristiano Ronaldo ,22,Male,portugal,6,9,10,9
+PO02,Pepe,20,Male,portugal,1,4,4,2
+PO03,João Moutinho,24,Male,portugal,2,3,6,5
+PO04,Bruno Alves,28,Male,portugal,2,3,6,7
+PO05,Rui Costa,20,Male,portugal,4,7,7,8
+PO06,Ricardo Carvalho,25,Male,portugal,3,4,6,5
+PO07,Pauleta,22,Male,portugal,4,9,9,10
+PO08,Bernardo Silva ,26,Male,portugal,5,9,2,4
+PO09,João Vieira Pinto,28,Male,portugal,6,2,5,8
+PO10,Ricardo Quaresma,25,Male,portugal,3,0,6,1
+PO11,William Carvalho,22,Male,portugal,7,3,0,6
+Manager id,Manager name,age,gender,country,,,,
+MA01,Mr Roberto Martínez,40,Male,australia,,,,
+MA02,Mr Graham Arnold,47,Male,portugal,,,,
